@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name":"Max Milton",
+      "username":"Max@Milton",
+      "email":"maxmilton@gmail.com",
+      "phone":"9836527353",
+      "website":"www.google.com"
+    },
+    {
+      "name":"Harry Parkson",
+      "username":"Harry_Parkson",
+      "email":"harryparkson@gmail.com",
+      "phone":"9836527389",
+      "website":"www.gmail.com"
+    }
+    
+  ]
+}
